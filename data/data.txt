@@ -1,1 +1,4 @@
+Movie reviews in Turkish are used from www.beyazperde.com website to train and test the deep learning models. 
+The data set named as "shuffled_uclabel.txt"  labeled as 0 and 1, negative and positive.
+Pretrained embeddings named as "beyazperdeyorumlar_skipgram.vec" 
 
